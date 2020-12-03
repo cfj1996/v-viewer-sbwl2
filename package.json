@@ -1,5 +1,5 @@
 {
-  "name": "v-viewer-sbwl-download",
+  "name": "v-viewer-sbwl2",
   "version": "1.0.0",
   "description": "Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js",
   "main": "dist/v-viewer.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cfj1996/v-viewer-sbwl-download.git"
+    "url": "git+https://github.com/cfj1996/v-viewer-sbwl2.git"
   },
   "keywords": [
     "vue",
@@ -25,10 +25,7 @@
   ],
   "author": "mirari",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cfj1996/v-viewer-sbwl-download/issues"
-  },
-  "homepage": "https://github.com/cfj1996/v-viewer-sbwl-download",
+  "homepage": "https://github.com/cfj1996/v-viewer-sbwl2",
   "engines": {
     "node": ">=4",
     "npm": ">=3"
