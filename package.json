@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mirari/v-viewer.git"
+    "url": "git+https://github.com/cfj1996/v-viewer-sbwl-download.git"
   },
   "keywords": [
     "vue",
@@ -26,9 +26,9 @@
   "author": "mirari",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mirari/v-viewer/issues"
+    "url": "https://github.com/cfj1996/v-viewer-sbwl-download/issues"
   },
-  "homepage": "https://github.com/mirari/v-viewer#readme",
+  "homepage": "https://github.com/cfj1996/v-viewer-sbwl-download",
   "engines": {
     "node": ">=4",
     "npm": ">=3"
@@ -91,7 +91,6 @@
   },
   "dependencies": {
     "throttle-debounce": "^2.0.1",
-    "viewerdownloadimg-sbwl": "^1.1.0",
-    "viewerjs": "^1.5.0"
+    "viewerdownloadimg-sbwl": "^1.1.0"
   }
 }
