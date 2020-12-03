@@ -1,6 +1,6 @@
 {
   "name": "v-viewer-sbwl2",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js",
   "main": "dist/v-viewer.js",
   "types": "types/index.d.ts",
