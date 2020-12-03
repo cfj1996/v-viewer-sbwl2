@@ -37,13 +37,17 @@
 </template>
 
 <script>
-import 'viewerjs/dist/viewer.css'
+import 'viewerdownloadimg-sbwl/dist/viewer.css'
 import Viewer from 'src'
 import Vue from 'vue'
 Vue.use(Viewer, {
   debug: true,
   defaultOptions: {
-    zIndex: 9999
+    zIndex: 9999,
+    download (url) {
+      // eslint-disable-next-line no-undef
+      alert(url)
+    }
   }
 })
 

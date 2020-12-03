@@ -2,10 +2,11 @@
   <div>
     <slot :images="images" :options="options">
     </slot>
+    <slot name="download" @download="$emit('download')"></slot>
   </div>
 </template>
 <script>
-import Viewer from 'viewerjs'
+import Viewer from 'viewerdownloadimg-sbwl'
 
 export default {
   props: {

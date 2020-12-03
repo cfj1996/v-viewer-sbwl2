@@ -1,7 +1,7 @@
 import {extend} from './utils'
 import Component from './component.vue'
 import directive from './directive'
-import Viewer from 'viewerjs'
+import Viewer from 'viewerdownloadimg-sbwl'
 
 export default {
   install (Vue, {name = 'viewer', debug = false, defaultOptions} = {}) {
